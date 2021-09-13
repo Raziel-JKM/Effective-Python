@@ -1,5 +1,5 @@
 # Effective-Python StudyGroup
-+ Effective Python 
++ Effective Python / [BOOK](https://github.com/camoverride/lit) 
 + [GitBub](https://github.com/gilbutITbook/080235)소스코드
 
 
