@@ -1,4 +1,5 @@
 # Effective-Python StudyGroup
++ Notion
 + Effective Python / [BOOK](https://github.com/camoverride/lit) 
 + [GitBub](https://github.com/gilbutITbook/080235)소스코드
 
