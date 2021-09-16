@@ -1,7 +1,7 @@
 # Effective-Python StudyGroup
 + Notion
 + Effective Python / [BOOK](https://github.com/camoverride/lit) 
-+ [GitBub](https://github.com/gilbutITbook/080235)소스코드
++ [GitBub](https://github.com/gilbutITbook/080235)소스코드 / [Coding The Matrix](https://github.com/ExcelsiorCJH/CodingTheMatrix)
 
 
 |차 시|내 용 |기 타|
